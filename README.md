@@ -1,6 +1,6 @@
 # MarketUI
 
-A new Flutter project.
+A Simple MarketUI Flutter project.
 
 ## Getting Started
 
